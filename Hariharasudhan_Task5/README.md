@@ -11,7 +11,6 @@ This project predicts sales based on advertising data using Machine Learning tec
 ## Files Included
 - Python source code
 - Dataset CSV file
-- Output screenshots
 
 ## Outcome
 Built a model to predict sales using advertising dataset features.
