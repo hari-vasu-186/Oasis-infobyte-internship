@@ -11,7 +11,7 @@ This project predicts car prices using Machine Learning algorithms.
 ## Files Included
 - Python source code
 - Dataset CSV file
-- Output screenshots
+
 
 ## Outcome
 Built a prediction model for estimating car prices accurately.
