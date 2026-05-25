@@ -10,7 +10,7 @@ This project analyzes unemployment trends in India using data analysis and visua
 ## Files Included
 - Python source code
 - Dataset CSV file
-- Output screenshots
+
 
 ## Outcome
 Performed data analysis and visualized unemployment trends effectively.
