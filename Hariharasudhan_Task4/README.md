@@ -10,7 +10,7 @@ This project detects whether an email/message is spam or not using Machine Learn
 ## Files Included
 - Python source code
 - Dataset CSV file
-- Output screenshots
+
 
 ## Outcome
 Successfully classified spam and non-spam messages.
